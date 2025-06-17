@@ -1,4 +1,4 @@
-Chapter 18
+Chapter 18: Reinforcement Learning
 
 1. Policy Gradient (PG)
 - Tujuan
