@@ -1,4 +1,4 @@
-**Penjelasan Teoritis**
+Chapter 1:The Machine Learning
 
 1. Persiapan dan Visualisasi Data
 - Menggunakan data dari OECD dan GDP World Bank tahun 2015.
