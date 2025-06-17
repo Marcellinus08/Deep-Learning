@@ -14,6 +14,7 @@ A. K-Means
   + Inertia: total jarak kuadrat ke pusat cluster
   + Elbow Method: cari titik di mana penurunan inertia melambat
   + Silhouette Score: metrik seberapa baik data cocok dengan cluster
+
 B. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 - Mendeteksi cluster berdasarkan kerapatan data
 - Kelebihan:
@@ -23,6 +24,7 @@ B. DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 - Parameter:
   + eps: radius maksimum tetangga
   + min_samples: jumlah minimum poin untuk dianggap core point
+
 C. Gaussian Mixture Model (GMM)
 - Pendekatan probabilistik untuk clustering
 - Cocok untuk data dengan distribusi Gaussian bertumpuk
