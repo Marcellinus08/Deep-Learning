@@ -15,8 +15,8 @@ Kernel Populer:
 - RBF (Gaussian): cocok untuk distribusi melingkar atau kompleks
 4. Parameter Penting
 - C: trade-off antara margin besar dan kesalahan kecil
--- Nilai besar: margin kecil, kurang toleran outlier
--- Nilai kecil: margin besar, toleran outlier
+   Nilai besar: margin kecil, kurang toleran outlier
+   Nilai kecil: margin besar, toleran outlier
 - gamma: memengaruhi area pengaruh masing-masing data (RBF)
 -- Besar → model overfit
 -- Kecil → model underfit
