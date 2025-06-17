@@ -2,6 +2,7 @@ Chapter 9: Unsupervised Learning Techniques
 
 1. Clustering
 - Unsupervised learning untuk mengelompokkan data berdasarkan kemiripan. Tidak ada label yang digunakan.
+
 A. K-Means
 - Algoritma iteratif untuk meminimalkan jarak rata-rata ke pusat cluster.
 - Kelebihan:
