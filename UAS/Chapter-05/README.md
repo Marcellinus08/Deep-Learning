@@ -23,10 +23,12 @@ Kernel Populer:
 5. SVM untuk Regresi
 - Support Vector Regression (SVR)
 - Tujuannya adalah mencari hyperplane di mana data berada dalam margin toleransi ε.
+
 Kelebihan SVM:
 - Cocok untuk dataset kecil sampai menengah
 - Sangat efektif di ruang dimensi tinggi
 - Mendukung margin dan regularisasi bawaan
+
 Kekurangan:
 - Lambat di dataset besar
 - Sulit dituning
