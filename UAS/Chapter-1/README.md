@@ -8,13 +8,13 @@
 - Model linier sederhana dilatih pada sebagian data (sample).
 - Model digunakan untuk memprediksi Life Satisfaction negara Cyprus.
 3. Perbandingan Model
-	a. Linear Regression (seluruh data)
-		- Model linier dilatih menggunakan seluruh dataset (bukan subset).
-	b. Ridge Regression
-		- Regularisasi L2 diterapkan untuk menghindari overfitting pada data kecil.
-	c. Polynomial Regression (Overfitting)
-		- Model polinomial derajat tinggi (30) diterapkan.
-		- Pipeline preprocessing mencakup standarisasi fitur.
+a. Linear Regression (seluruh data)
+- Model linier dilatih menggunakan seluruh dataset (bukan subset).
+b. Ridge Regression
+- Regularisasi L2 diterapkan untuk menghindari overfitting pada data kecil.
+c. Polynomial Regression (Overfitting)
+- Model polinomial derajat tinggi (30) diterapkan.
+- Pipeline preprocessing mencakup standarisasi fitur.
 Evaluasi Visual
 Visualisasi kurva prediksi membantu memahami kinerja dan kompleksitas model.
 Ridge menunjukkan trade-off antara bias dan varians.
