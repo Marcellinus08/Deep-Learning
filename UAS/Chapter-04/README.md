@@ -18,6 +18,7 @@ Tipe Gradient Descent:
 - Grafik antara error vs jumlah data training.
 - Menunjukkan overfitting (gap besar) atau underfitting (semua error tinggi).
 5. Regularization
+
 Menambahkan penalti untuk mencegah overfitting:
 - Ridge (L2): penalti = α‖θ‖²
 - Lasso (L1): penalti = α‖θ‖₁ → bisa menghasilkan fitur nol (feature selection)
